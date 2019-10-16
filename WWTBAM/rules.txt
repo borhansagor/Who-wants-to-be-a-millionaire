@@ -1,0 +1,13 @@
+These are the rules:
+
+Rules are for making things work.
+There are only a few rules.
+We don't know the rules yet.
+
+You have three lifelines:
+
+50/50 	    - 	Two possible answers will be removed
+Doulbe-Dip  -   Get a new question for the same monetary value
+SKIP        -   Skip the current question but also the money opportunity
+
+This is the end of the rules
